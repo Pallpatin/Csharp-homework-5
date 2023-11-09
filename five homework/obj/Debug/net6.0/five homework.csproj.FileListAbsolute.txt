@@ -1,0 +1,14 @@
+D:\top academy\дз\five homework\five homework\obj\Debug\net6.0\five homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\top academy\дз\five homework\five homework\obj\Debug\net6.0\five homework.AssemblyInfoInputs.cache
+D:\top academy\дз\five homework\five homework\obj\Debug\net6.0\five homework.AssemblyInfo.cs
+D:\top academy\дз\five homework\five homework\obj\Debug\net6.0\five homework.csproj.CoreCompileInputs.cache
+D:\top academy\дз\five homework\five homework\bin\Debug\net6.0\five homework.exe
+D:\top academy\дз\five homework\five homework\bin\Debug\net6.0\five homework.deps.json
+D:\top academy\дз\five homework\five homework\bin\Debug\net6.0\five homework.runtimeconfig.json
+D:\top academy\дз\five homework\five homework\bin\Debug\net6.0\five homework.dll
+D:\top academy\дз\five homework\five homework\bin\Debug\net6.0\five homework.pdb
+D:\top academy\дз\five homework\five homework\obj\Debug\net6.0\five homework.dll
+D:\top academy\дз\five homework\five homework\obj\Debug\net6.0\refint\five homework.dll
+D:\top academy\дз\five homework\five homework\obj\Debug\net6.0\five homework.pdb
+D:\top academy\дз\five homework\five homework\obj\Debug\net6.0\five homework.genruntimeconfig.cache
+D:\top academy\дз\five homework\five homework\obj\Debug\net6.0\ref\five homework.dll
